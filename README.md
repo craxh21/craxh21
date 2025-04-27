@@ -17,11 +17,16 @@ _👋 I’m a backend developer with a knack for turning ideas into real-world s
  
  ---
 
+## 🧮 LC Stats:
+
+<!--![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Mubasshir_Khan&border=true)-->
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Mubasshir_Khan&theme=dark&border=true&animation=true)
+
+---
+
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=craxh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!--![](https://nirzak-streak-stats.vercel.app/?user=craxh21&theme=dark&hide_border=false)<br/>
-[![Metrics](https://metrics.lecoq.io/craxh21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=Asia%2FKolkata)](https://github.com/lowlighter/metrics)-->
+<!--![](https://github-readme-stats.vercel.app/api?username=craxh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=craxh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
