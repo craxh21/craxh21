@@ -15,16 +15,10 @@ _👋 I’m a backend developer with a knack for turning ideas into real-world s
  | **Data Science / ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
  | **Version Control & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![STS](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
  
- ---
-
-## 🧮 LC Stats:
-
-<!--![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Mubasshir_Khan&border=true)-->
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Mubasshir_Khan&theme=dark&border=true&animation=true)
 
 ---
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 
 <!--![](https://github-readme-stats.vercel.app/api?username=craxh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=craxh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -36,7 +30,7 @@ _👋 I’m a backend developer with a knack for turning ideas into real-world s
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubasshir-khan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubasshirahmedkhan21@gmail.com)
 
