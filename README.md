@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mubasshir Khan!  
-_👋 I’m a backend developer with a knack for turning ideas into real-world solutions. With a focus on creating scalable, efficient systems, I leverage a variety of backend languages and tools to tackle challenges head-on. Dive into my repositories to see how I approach problem-solving through APIs, microservices, and innovative solutions. Let’s join forces to craft systems that make a difference!_
+_👋 I’m a backend developer with a knack for turning ideas into real-world solutions. With a focus on creating scalable, efficient systems, I leverage a variety of backend languages and tools to tackle challenges head-on. Dive into my repositories to see how I approach problem-solving through APIs, microservices, and innovative solutions._
+
+Let’s join forces to craft systems that make a difference!
 
 ---
 
